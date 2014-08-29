@@ -8,10 +8,10 @@
 1. Build an app to read sensor data and predict failure using Informix   TimeSeries service #Bluemix http://ibm.co/1q1JmQc
 1. Everything you need to develop a public transportation system simulator on @IBM #Bluemix http://ibm.co/TLzUSb
 1. Composing separate #Bluemix apps into a #microservices architecture? You??ll need to know about #CORS.http://krook.net/archives/1022
-1. Check out #bluemix sample code     and build your sample app in few minutes! @BlueMixhttp://ibm.co/W01a1g
+1. Check out #bluemix sample code     and build your sample app in few minutes! @BlueMix http://ibm.co/W01a1g
 1. Demo of Watson Films in action:  #watson  #bluemix http://youtu.be/r-HNSGt53wg
-1. GA version of IBM Eclipse Tools for Bluemix is now available as a free download! #BlueMix #IBMCloudhttps://ibm.biz/BdFR7W
-1. Dan Berg demonstrates the IBM DevOps Services and Bluemix integration:   #bluemix  #devops #jazzhttp://youtu.be/EHng3L2JScU
+1. GA version of IBM Eclipse Tools for Bluemix is now available as a free download! #BlueMix #IBMCloud https://ibm.biz/BdFR7W
+1. Dan Berg demonstrates the IBM DevOps Services and Bluemix integration:   #bluemix  #devops #jazz http://youtu.be/EHng3L2JScU
 1. "Build a sentiment analysis application with Node.js Express sentiment and ntwitter #Bluemix"http://www.ibm.com/developerworks/web/library/wa-nodejs-app/index.html
 1. "Create a mobile-friendly to-do list app with PHP jQuery Mobile and Google Tasks   #Bluemix"http://www.ibm.com/developerworks/mobile/library/mo-php-todolist-app/index.html
 1. Send a Push notification from a mobile app in 5 minutes or less   #Bluemix http://www.ibm.com/developerworks/mobile/library/mo-push-apache-cordova-app/index.html
@@ -98,6 +98,7 @@
 1. #bluemix :Using the node.js cfenv package to make your life easier https://developer.ibm.com/bluemix/2014/07/17/node-cfenv-makes-it-easy/
 1. #bluemix :Easy SSH Sessions into Bluemix https://developer.ibm.com/bluemix/2014/07/16/easy-ssh-sessions-bluemix/
 1. #bluemix :WebSphere Liberty Buildpack : a tale of two PaaS https://developer.ibm.com/bluemix/2014/06/12/websphere-liberty-buildpack-tale-two-paas/
+
 
 
 
