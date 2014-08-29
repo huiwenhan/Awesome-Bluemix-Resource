@@ -1,4 +1,4 @@
-1. Build a simple word game app with Cloudanthttp://ow.ly/zl8Ja
+1. Build a simple word game app with Cloudant http://ow.ly/zl8Ja
 1. Create a business intelligence and analytics service  #Bluemix http://ibm.co/Qpd0zb
 1. Build an Android app using the MobileData cloud service #Bluemix http://ibm.co/1fv3jIj
 1. An introduction to the application lifecycle on Codename #Bluemix http://youtu.be/YyPdgrd7YAw
