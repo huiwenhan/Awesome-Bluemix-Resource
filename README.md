@@ -1,5 +1,5 @@
 ### Awesome Bluemix Articles https://github.com/huiwenhan/bluemix/blob/master/Awesome%20Bluemix%20Articles.md
-1. Build a simple word game app with Cloudanthttp://ow.ly/zl8Ja
+1. Build a simple word game app with Cloudant http://ow.ly/zl8Ja
 1. Create a business intelligence and analytics service  #Bluemix http://ibm.co/Qpd0zb
 1. Build an Android app using the MobileData cloud service #Bluemix http://ibm.co/1fv3jIj
 1. An introduction to the application lifecycle on Codename #Bluemix http://youtu.be/YyPdgrd7YAw
@@ -98,8 +98,6 @@
 1. #bluemix :Using the node.js cfenv package to make your life easier https://developer.ibm.com/bluemix/2014/07/17/node-cfenv-makes-it-easy/
 1. #bluemix :Easy SSH Sessions into Bluemix https://developer.ibm.com/bluemix/2014/07/16/easy-ssh-sessions-bluemix/
 1. #bluemix :WebSphere Liberty Buildpack : a tale of two PaaS https://developer.ibm.com/bluemix/2014/06/12/websphere-liberty-buildpack-tale-two-paas/
-
-
 
 
 ### Awesome Bluemix appllication https://github.com/huiwenhan/bluemix/blob/master/Awesome%20Bluemix%20appllication.md
